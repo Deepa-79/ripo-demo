@@ -1,2 +1,2 @@
 # ripo-demo
-this is a demo repository of  testing class
+this is a demo repository of  testing class.
